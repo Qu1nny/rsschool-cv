@@ -14,5 +14,6 @@
 ---
 ### Language 
 - English B1
+- Deutch A1
 - ---
 
