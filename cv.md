@@ -11,6 +11,7 @@
 - css
 - java
 - node.js
+- js
 ---
 ### Language 
 - English B1
